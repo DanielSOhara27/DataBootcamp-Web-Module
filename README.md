@@ -34,4 +34,4 @@ HTML Tag|Purpose| More info
 ```<code>```| This tag is a phrase tag. It defines a piece of computer code. | [W3 Schools HTML code blocks](https://www.w3schools.com/tags/tag_code.asp)
 ```<textarea>```| This tag tag defines a multi-line text input control. This tag is used inside the form tag | [W3 Schools HTML text input](https://www.w3schools.com/tags/tag_textarea.asp)
 ```<select>```| This tag defines a multi-line text input control. This tag is used inside the form tag | [W3 Schools HTML dropdown lists](https://www.w3schools.com/tags/tag_select.asp)
-```<input>```| This element is used within a form element to declare input controls that allow users to input data. | [W3 Schools HTML dropdown lists](https://www.w3schools.com/tags/tag_input.asp)
+```<input>```| This element is used within a form element to declare input controls that allow users to input data. | [W3 Schools HTML input element](https://www.w3schools.com/tags/tag_input.asp)
