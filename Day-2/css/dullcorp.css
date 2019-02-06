@@ -1,0 +1,45 @@
+body{
+    background-color: darkgrey;
+}
+
+h1, h2, h3 {
+    width: 100%;
+    text-align: center;
+}
+
+h1{
+    color: crimson;
+}
+
+h2 {
+    color: darkblue;
+}
+
+h3 {
+    color: seagreen;
+    box-shadow: 10px, 10px, black;
+}
+
+section {
+    background-color: blueviolet;
+}
+
+p {
+    font-size: larger;
+}
+
+ul {
+    border-color: black;
+    border-style: dashed;
+    border-radius: 3px;
+}
+
+li {
+    border-style: dotted;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+

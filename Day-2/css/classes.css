@@ -1,0 +1,24 @@
+#blue1 {
+    color: blue;
+    font-size: 40px;
+}
+
+.purple1{
+    color: purple;
+}
+
+#red1{
+    color: red;
+}
+
+.black1{
+    background-color: black;
+}
+
+#burp1{
+    font-weight: bold;
+}
+
+.size1{
+    font-size: 10px;
+}
